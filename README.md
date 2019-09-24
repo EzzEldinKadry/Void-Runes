@@ -1,2 +1,5 @@
 # Void-Runes
-you are in a big void trapو should comprehend your surrounding to know where the hidden Traps and Keys.
+You are in a big void trap, you should comprehend your surrounding to know where the hidden traps and keys.
+
+Playable prototype:
+https://chaoticfarghly.itch.io/void-runes
